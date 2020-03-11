@@ -61,7 +61,7 @@ namespace StudentManagement
             this.LoadAllClasses();
         }
 
-        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        private void IndexClassForm_Load(object sender, DataGridViewCellEventArgs e)
         {
 
         }
